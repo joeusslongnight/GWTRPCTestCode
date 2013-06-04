@@ -1,0 +1,2 @@
+serviceClass: org.start.projectthree.client.service.Service
+path: E1747846A8874316D7353D41C23BF810.gwt.rpc

@@ -1,0 +1,3 @@
+# Module projectthree
+# RPC service class, partial path of RPC policy file
+org.start.projectthree.client.service.Service, E1747846A8874316D7353D41C23BF810.gwt.rpc
